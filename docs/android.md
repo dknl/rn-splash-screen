@@ -19,6 +19,14 @@
 
     ```java
     // [...]
+    
+    
+    import android.graphics.Color;
+    import android.os.Bundle;
+    import com.facebook.react.ReactActivity;
+    import com.facebook.react.ReactInstanceManager;
+    import com.facebook.react.bridge.ReactContext;
+
     import com.mehcode.reactnative.splashscreen.SplashScreen;
     
     public class MainActivity extends ReactActivity {
